@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\dev\opengl\projects\raytracer\raytracer\src\main.cpp(82): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracer.vcxproj -> E:\Dev\OpenGL\Projects\RayTracer\bin\Win32\Debug\RayTracer.exe
